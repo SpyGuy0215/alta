@@ -1,0 +1,17 @@
+#Sensitive Files
+token.md
+
+#Virtual Environment
+altavenv/
+
+#Python stuff
+__pycache__/
+
+#Eggs
+alta.egg-info/
+
+#Build
+build/
+
+#Dist
+dist/
